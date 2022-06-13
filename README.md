@@ -1,0 +1,1 @@
+# app-goodedu-crud-classcomponent-client
